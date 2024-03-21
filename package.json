@@ -37,7 +37,7 @@
   "dependencies": {
     "buffer": "^6.0.3",
     "custom-event-polyfill": "^1.0.6",
-    "debug": "ngokevin/debug#noTimestamp",
+    "debug": "^3.1.0",
     "deep-assign": "^2.0.0",
     "@ungap/custom-elements": "^1.1.0",
     "load-bmfont": "^1.2.3",
